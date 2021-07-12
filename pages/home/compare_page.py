@@ -28,11 +28,12 @@ class ComparePage(SeleniumDriver):
 
         print("\nNames of Windows ACs are as below: ")
         for names in NamesOfACs:
-            print(names.text)
+            (names.text)
 
         print("\nPrices of Windows ACs are as below: ")
         for prices in PricesOfACS:
-            print(" " + prices.text)
+            Prices = prices.text
+            print(Prices.encode("utf-8"))
 
     def addToCart(self):
 

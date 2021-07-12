@@ -20,7 +20,7 @@ class FlipkartPage(SeleniumDriver):
     _appliances = "img[alt='Appliances']"
     _airConditioners = "Air Conditioners"
     _windowACs = "Window ACs"
-    _addToCompare_2 = "//div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[3]//span[.='Add to Compare']"
+    _addToCompare_2 = "//div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[2]//span[.='Add to Compare']"
     _addToCompare_3 = "//div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[4]//span[.='Add to Compare']"
     _addToCompare_6 = "//div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[7]//span[.='Add to Compare']"
     _comparebtn = "//span[@class='_3hShhO']/span[.='COMPARE']"
