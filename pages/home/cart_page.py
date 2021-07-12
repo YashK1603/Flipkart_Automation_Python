@@ -40,7 +40,7 @@ class CartPage(SeleniumDriver):
         self.elementClick(self._checkDiffPinBtn, locatorType="xpath")
         time.sleep(2)
 
-        DeliveryStatus = self.getElements(self._deliverystatus.encode("utf-8"), locatorType="xpath")
+        DeliveryStatus = self.getElements(self._deliverystatus, locatorType="xpath")
 
         print("\nDelivery status of the products for Pincode " + str(Pincode) + " are as below: ")
         for status in DeliveryStatus:
