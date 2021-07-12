@@ -34,8 +34,8 @@ class ComparePage(SeleniumDriver):
         for prices in PricesOfACS:
             print(" " + prices.text)
 
-
     def addToCart(self):
+
         self.elementClick(self._addToCart_1, locatorType="xpath")
         time.sleep(2)
         self.driver.back()
