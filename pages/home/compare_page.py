@@ -46,14 +46,3 @@ class ComparePage(SeleniumDriver):
 
         self.elementClick(self._addToCart_3, locatorType="xpath")
         time.sleep(1)
-        """
-        There is a issue with Flipkart that user is unable to add middle product into cart. It is giving an error.
-        Saving screenshot for the error
-        
-
-        screenshotpath = "C:\\Users\\yash\\PycharmProjects\\Pronto_Practical\\screenshots\\addToCartError.png"
-        self.driver.save_screenshot(screenshotpath)
-       
-        # Going to cart again to continue the test
-        self.elementClick(self._goToCart, locatorType="xpath")
-        """
