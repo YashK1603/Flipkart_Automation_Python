@@ -7,8 +7,10 @@ class WebDriver():
     def __init__(self, browser):
         self.browser = browser
 
+    # Creating webdriver instance and common driver actions which need to be run initially before tests
     def getWebDriverInstance(self):
         baseURL = "https://www.google.com"
+
         if self.browser == "chrome":
             driver = webdriver.Chrome()
         elif self.browser == "firefox":

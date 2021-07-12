@@ -18,7 +18,7 @@ def oneTimeSetUp(request, browser):
     # Closing browser after all tests are run
     driver.quit()
 
-
+# Providing a way to access command line option while running the tests
 def pytest_addoption(parser):
     parser.addoption("--browser")
 
