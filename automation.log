@@ -1632,3 +1632,43 @@
 07/12/2021 08:59:01 PM - CartPage - INFO: Element found with locator: .//div[@class='_1klldK']//span and  locatorType: xpath
 07/12/2021 08:59:01 PM - CartPage - INFO: Clicked on element with locator: .//div[@class='_1klldK']//span locatorType: xpath
 07/12/2021 08:59:03 PM - CartPage - INFO: Elements found with locator: .//div[@class='_2pqhhf'] and  locatorType: xpath
+07/12/2021 09:29:46 PM - GoogleSearch - INFO: Element found with locator: //input[@title='Search'] and  locatorType: xpath
+07/12/2021 09:29:46 PM - GoogleSearch - INFO: Sent data on element with locator: //input[@title='Search'] locatorType: xpath
+07/12/2021 09:29:48 PM - GoogleSearch - INFO: Element found with locator: .//ul[@role='listbox']/li//div[contains(@class, 'wM6W7d')]/span and  locatorType: xpath
+07/12/2021 09:29:52 PM - GoogleSearch - INFO: Clicked on element with locator: .//ul[@role='listbox']/li//div[contains(@class, 'wM6W7d')]/span locatorType: xpath
+07/12/2021 09:29:53 PM - GoogleSearch - INFO: Element found with locator: .//a[@href='https://www.flipkart.com/']//h3[text()='Flipkart'] and  locatorType: xpath
+07/12/2021 09:30:02 PM - GoogleSearch - INFO: Clicked on element with locator: .//a[@href='https://www.flipkart.com/']//h3[text()='Flipkart'] locatorType: xpath
+07/12/2021 09:30:02 PM - FlipkartPage - INFO: Element found with locator: _2doB4z and  locatorType: class
+07/12/2021 09:30:02 PM - FlipkartPage - INFO: Clicked on element with locator: _2doB4z locatorType: class
+07/12/2021 09:30:02 PM - FlipkartPage - INFO: Element found with locator: img[alt='Appliances'] and  locatorType: css
+07/12/2021 09:30:03 PM - FlipkartPage - INFO: Element found with locator: Air Conditioners and  locatorType: link
+07/12/2021 09:30:04 PM - FlipkartPage - INFO: Element found with locator: Window ACs and  locatorType: link
+07/12/2021 09:30:04 PM - FlipkartPage - INFO: Clicked on element with locator: Window ACs locatorType: link
+07/12/2021 09:30:05 PM - FlipkartPage - INFO: Element found with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[3]//span[.='Add to Compare'] and  locatorType: xpath
+07/12/2021 09:30:05 PM - FlipkartPage - INFO: Clicked on element with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[3]//span[.='Add to Compare'] locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Element found with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[4]//span[.='Add to Compare'] and  locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Clicked on element with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[4]//span[.='Add to Compare'] locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Element found with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[7]//span[.='Add to Compare'] and  locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Clicked on element with locator: //div[@class='_1YokD2 _2GoDe3']/div[@class='_1YokD2 _3Mn1Gg']/div[7]//span[.='Add to Compare'] locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Element found with locator: //span[@class='_3hShhO']/span[.='COMPARE'] and  locatorType: xpath
+07/12/2021 09:30:06 PM - FlipkartPage - INFO: Clicked on element with locator: //span[@class='_3hShhO']/span[.='COMPARE'] locatorType: xpath
+07/12/2021 09:30:07 PM - ComparePage - INFO: Elements found with locator: .//div[@class='_2d0DHb']//div[@class='row']//a and  locatorType: xpath
+07/12/2021 09:30:07 PM - ComparePage - INFO: Elements found with locator: //div[@class='col-4-5']/div[2]//div[@class='_30jeq3'] and  locatorType: xpath
+07/12/2021 09:30:07 PM - ComparePage - INFO: Element found with locator: //div[@class='_2eCJrS']//div[2]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] and  locatorType: xpath
+07/12/2021 09:30:08 PM - ComparePage - INFO: Clicked on element with locator: //div[@class='_2eCJrS']//div[2]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] locatorType: xpath
+07/12/2021 09:30:10 PM - ComparePage - INFO: Element found with locator: //div[@class='_2eCJrS']//div[3]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] and  locatorType: xpath
+07/12/2021 09:30:10 PM - ComparePage - INFO: Clicked on element with locator: //div[@class='_2eCJrS']//div[3]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] locatorType: xpath
+07/12/2021 09:30:13 PM - ComparePage - INFO: Element found with locator: //div[@class='_2eCJrS']//div[4]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] and  locatorType: xpath
+07/12/2021 09:30:13 PM - ComparePage - INFO: Clicked on element with locator: //div[@class='_2eCJrS']//div[4]/button[@class='_2KpZ6l _2U9uOA _3v1-ww vsi37q'] locatorType: xpath
+07/12/2021 09:30:14 PM - CartPage - INFO: Element found with locator: .//input[ @class ='cfnctZ'] and  locatorType: xpath
+07/12/2021 09:30:14 PM - CartPage - INFO: Sent data on element with locator: .//input[ @class ='cfnctZ'] locatorType: xpath
+07/12/2021 09:30:14 PM - CartPage - INFO: Element found with locator: .//div[@class='ibtBU6 _3t6eWY']/span and  locatorType: xpath
+07/12/2021 09:30:14 PM - CartPage - INFO: Clicked on element with locator: .//div[@class='ibtBU6 _3t6eWY']/span locatorType: xpath
+07/12/2021 09:30:16 PM - CartPage - INFO: Elements found with locator: .//div[@class='_2pqhhf'] and  locatorType: xpath
+07/12/2021 09:30:16 PM - CartPage - INFO: Element found with locator: ._12cXX4 and  locatorType: css
+07/12/2021 09:30:17 PM - CartPage - INFO: Clicked on element with locator: ._12cXX4 locatorType: css
+07/12/2021 09:30:17 PM - CartPage - INFO: Element found with locator: .//input[ @class ='cfnctZ'] and  locatorType: xpath
+07/12/2021 09:30:17 PM - CartPage - INFO: Sent data on element with locator: .//input[ @class ='cfnctZ'] locatorType: xpath
+07/12/2021 09:30:17 PM - CartPage - INFO: Element found with locator: .//div[@class='_1klldK']//span and  locatorType: xpath
+07/12/2021 09:30:17 PM - CartPage - INFO: Clicked on element with locator: .//div[@class='_1klldK']//span locatorType: xpath
+07/12/2021 09:30:19 PM - CartPage - INFO: Elements found with locator: .//div[@class='_2pqhhf'] and  locatorType: xpath
