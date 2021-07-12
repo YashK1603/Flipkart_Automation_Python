@@ -28,12 +28,10 @@ class Test_FlipkartFlow(unittest.TestCase):
     @pytest.mark.run(order=2)
     def test_getSearchSuggestions(self):
         self.gs.searchSuggestions()
-        # assert check is pending
 
     @pytest.mark.run(order=3)
     def test_navigateToFlipkart(self):
         self.gs.goToFlipkart()
-        # assert check is pending
 
     # TestCases of GoogleSearch from google_search_page ends :
 

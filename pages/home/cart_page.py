@@ -30,8 +30,7 @@ class CartPage(SeleniumDriver):
 
         print("\nDelivery status of the products for Pincode " + str(Pincode) + " are as below: ")
         for status in DeliveryStatus:
-            DelStatus = status.text
-            print(DelStatus.encode("utf-8"))
+            print(status.text)
 
     def checkdiffdelpin(self, Pincode):
         self.elementClick(self._deliverToField, locatorType="css")
@@ -44,5 +43,4 @@ class CartPage(SeleniumDriver):
 
         print("\nDelivery status of the products for Pincode " + str(Pincode) + " are as below: ")
         for status in DeliveryStatus:
-            DelStatus = status.text
-            print(DelStatus.encode("utf-8"))
+            print(status.text)
