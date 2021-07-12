@@ -11,7 +11,7 @@ import time
 
 
 @pytest.mark.usefixtures("oneTimeSetUp")
-class SearchFieldTest(unittest.TestCase):
+class Test_FlipkartFlow(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup(self):
